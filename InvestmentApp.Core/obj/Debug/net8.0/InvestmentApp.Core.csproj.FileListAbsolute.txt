@@ -1,0 +1,11 @@
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Core\bin\Debug\net8.0\InvestmentApp.Core.deps.json
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Core\bin\Debug\net8.0\InvestmentApp.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Core\bin\Debug\net8.0\InvestmentApp.Core.pdb
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Core\obj\Debug\net8.0\InvestmentApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Core\obj\Debug\net8.0\InvestmentApp.Core.AssemblyInfoInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Core\obj\Debug\net8.0\InvestmentApp.Core.AssemblyInfo.cs
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Core\obj\Debug\net8.0\InvestmentApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Core\obj\Debug\net8.0\InvestmentApp.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Core\obj\Debug\net8.0\refint\InvestmentApp.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Core\obj\Debug\net8.0\InvestmentApp.Core.pdb
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Core\obj\Debug\net8.0\ref\InvestmentApp.Core.dll

@@ -1,0 +1,17 @@
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Business\bin\Debug\net8.0\InvestmentApp.Business.deps.json
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Business\bin\Debug\net8.0\InvestmentApp.Business.dll
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Business\bin\Debug\net8.0\InvestmentApp.Business.pdb
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Business\bin\Debug\net8.0\InvestmentApp.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Business\bin\Debug\net8.0\InvestmentApp.Data.dll
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Business\bin\Debug\net8.0\InvestmentApp.Core.pdb
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Business\bin\Debug\net8.0\InvestmentApp.Data.pdb
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Business\obj\Debug\net8.0\InvestmentApp.Business.csproj.AssemblyReference.cache
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Business\obj\Debug\net8.0\InvestmentApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Business\obj\Debug\net8.0\InvestmentApp.Business.AssemblyInfoInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Business\obj\Debug\net8.0\InvestmentApp.Business.AssemblyInfo.cs
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Business\obj\Debug\net8.0\InvestmentApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Business\obj\Debug\net8.0\Investme.3FB9B63B.Up2Date
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Business\obj\Debug\net8.0\InvestmentApp.Business.dll
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Business\obj\Debug\net8.0\refint\InvestmentApp.Business.dll
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Business\obj\Debug\net8.0\InvestmentApp.Business.pdb
+C:\Users\egesu\OneDrive\Masaüstü\InvestingManagement\InvestmentApp.Business\obj\Debug\net8.0\ref\InvestmentApp.Business.dll
